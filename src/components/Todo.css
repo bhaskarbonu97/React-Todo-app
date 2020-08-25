@@ -1,0 +1,28 @@
+li:hover{
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,.9);
+    border-radius:10px;
+    background-color:rosybrown;
+    color:white;
+    transition: 0.5s ease-in;
+}
+ul{
+    background-color:white;
+    color:black;
+
+}
+ul .btn{
+    margin: 15px;
+}
+ul .btn:hover{
+    margin: 15px;
+    border:none;
+    border-radius:10px;
+    background-color:#FF0000;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,.9);
+    transition: 0.5s ease-in;
+
+}
+li{
+    padding:20px;
+    margin:15px;
+}
